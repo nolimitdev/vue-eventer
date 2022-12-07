@@ -1,0 +1,28 @@
+{
+  "name": "vue-eventer",
+  "version": "1.0.0",
+  "description": "Vue.js tool known as `event bus` or `even hub` usefull for small projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolimitdev/vue-eventer.git"
+  },
+  "keywords": [
+    "vue",
+    "vue2",
+    "vue3",
+    "mitt",
+    "event-bus",
+    "event-hub",
+    "event-emitter"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nolimitdev/vue-eventer/issues"
+  },
+  "homepage": "https://github.com/nolimitdev/vue-eventer"
+}
